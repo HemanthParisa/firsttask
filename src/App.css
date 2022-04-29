@@ -9,17 +9,10 @@ margin-right: 200px;
 
 .civil2 {
   position: relative;
-  /* display: flex; */
-  /* justify-content: flex-end; */
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   margin-left: 50%;
-  /* height: 700px; */
   background-color: yellow;
 }
-
-/* .civil22{
-  border-radius: 10px !important;
-} */
 
 .civil_img{
   height: 200px;
@@ -50,3 +43,24 @@ margin-right: 200px;
  background-color: aliceblue;
  padding: 16px;
 }
+
+.civil3 {
+  height: 100px;
+  justify-content: center;
+  text-align: center;
+}
+
+.civil4 {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+ 
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.civil4 > div{
+  max-width: 200px;
+  min-height: 100px;
+}
+
