@@ -1,7 +1,6 @@
 
 .civil1 {
   display: flex;
-/* border: 1px solid blue; */
 justify-content: space-between;
 margin-left: 200px;
 margin-right: 200px;
@@ -9,7 +8,6 @@ margin-right: 200px;
 
 .civil2 {
   position: relative;
-  /* border: 1px solid blue; */
   margin-left: 50%;
   background-color: yellow;
 }
@@ -53,14 +51,78 @@ margin-right: 200px;
 .civil4 {
   display: flex;
   justify-content: space-between;
-  background-color: white;
- 
   margin-left: 50px;
   margin-right: 50px;
+
 }
 
 .civil4 > div{
   max-width: 200px;
   min-height: 100px;
+  margin-right: 5px;
+  background-color: white;
+
 }
+.civil5 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -100px;
+  background-color: #1f2851;
+  padding-top: 100px;
+  padding-bottom: 150px;
+
+}
+.build_img {
+  margin-top: -100px;
+  border-radius: 10px;
+  margin-left: 400px;
+}
+.empty {
+height: 200px;
+width: 50%;
+background-color: yellow;
+margin-top: -150px;
+margin-left: 50%;
+
+}
+.text {
+  margin-top: -150px;
+  width: 400px;
+  min-height: 200px;
+  margin-left: 55%;
+  background-color: white;
+  position: relative; 
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+  font-size: 12px;
+}
+.maybe {
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+  height: 350px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.maybe1 {
+  width: 45%;
+  background-color: #1f2851;
+}
+.maybe2 {
+  width: 55%;
+  background-color: yellow;
+}
+.maybe2 > div{
+  /* border: 1px solid red; */
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.white_img {
+  border-radius: 10px;
+  margin-left: 70%;
+  margin-top: 60px;
+  position: relative;
+}
+
 

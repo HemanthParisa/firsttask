@@ -28,7 +28,7 @@ class TestComponent extends React.Component {
           <div className='civil25'>
             <div className='civil_img1'>
               <p><b>what we do <br />integrated design<br />practice of <br />architecture<br />landscape,interiors</b></p>
-              <button onClick={this.handleChange} style={{ backgroundColor: '#1f2851',border:'5px solid white', borderRadius: '15px', width:'120px', color:'white', padding:'5px'}}>learn more</button>
+              <button onClick={this.handleChange} style={{ backgroundColor: '#1f2851',border:'5px solid white', borderRadius: '15px', width:'120px',color:'white', padding:'5px'}}>learn more</button>
           
             </div>
           </div>
