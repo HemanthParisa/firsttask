@@ -138,5 +138,43 @@ margin-left: 50%;
   width: 300px;
   margin-left: 50px;
 }
+.study2 {
+  width: 300px;
+  margin-top: -270px;
+  margin-left: 450px;
+}
+.final1_img1 {
+  height: 350px;
+  width: 100%;
+  margin-top: -20px;
+}
+.final2 {
+  height: 500px;
+  width: 600px;
+  text-align: center;
+  margin-left: 500px;
+  margin-top: -150px;
+  position: relative;
+  background-color: white;
+  border-radius: 10px;  
 
+}
 
+.final3 {
+  width: '100px';
+  font-size: 13px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.final5 {
+  background-color: black;
+  margin-bottom: 10px;
+  text-align: center;margin-top: 100px;
+}
+.label {
+  display: flex;
+  justify-content: space-between;
+}
+.MuiFilledInput-root {
+  border-radius: 30px !important;
+}

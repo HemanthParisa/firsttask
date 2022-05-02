@@ -20,14 +20,14 @@ class ComputerComponent extends React.Component {
                                 <img src={oldage} alt="img" className="double1_img1" style={{ borderRadius: '50%', height: '180px', width: '180px', border: '10px solid white', marginLeft: '500px', marginTop: '-50px' }} />
                             </div>
                         </div>
-                        <div className="mater" style={{ width:"220px", marginLeft:'720px', marginTop:'-150px',position:'relative', backgroundColor:'white'}}>
+                        <div className="master" style={{ width:"220px", marginLeft:'720px', marginTop:'-150px',position:'relative', backgroundColor:'white'}}>
                             <div>
-                            <img src={compass} alt="img" className="mater1_img1" style={{height:'50px',width:'50px',borderRadius:'50%'}} />
+                            <img src={compass} alt="img" className="master1_img1" style={{height:'50px',width:'50px',borderRadius:'50%'}} />
                             </div>
-                            <div className="mater2">
+                            <div className="master2">
                                 <h3 style={{width:"200px", padding:'10px'}}>We create embedded architecture</h3>
                                 <p style={{width:"200px", fontSize: '12px', padding:'10px' }}>We create embedded architecture We create embedded architecture We create embedded architecture We create embedded architecture We create embedded architectureWe create embedded architecture</p>
-                                <p style={{widows: '200px', fontSize: '12px', padding:'10px' }}>image from <span style={{ textDecoration: 'underline' }}>Freepic</span></p>
+                                <p style={{width: '200px', fontSize: '12px', padding:'10px' }}>image from <span style={{ textDecoration: 'underline' }}>Freepic</span></p>
                                 <button onClick={this.handleChange} style={{ backgroundColor: '#1f2851', border: 'none', borderRadius: '15px', width: '120px', color: 'white', padding: '5px' }}>learn more</button>
                             </div>
                         </div>
